@@ -1,0 +1,11 @@
+Thanks for downloading myst!
+
+Start new project:
+1. Copy the "Base Structure" folder
+2. Paste the folder where you want to have your project
+3. Rename the folder in what ever you want
+4. Now you have a basic structure to build your project faster
+
+Use the myst Framework:
+1. Copy the myst folder and put it inside of your project
+2. Now you can import classes from myst, for example: import myst.swing.blueprint.ButtonBlueprint;
